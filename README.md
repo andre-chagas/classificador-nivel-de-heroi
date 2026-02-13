@@ -58,9 +58,3 @@ O Herói de nome Cassandra está no nível de Bronze
 5. Exibição da mensagem
    - Montamos a string final no formato solicitado e exibimos no console.
 
-## Arquivos Principais
-- [index.js](file:///e:/classificador_nivel_de_heroi/index.js): script de classificação e execução via terminal.
-
-## Observações
-- Sem dependências externas.
-- Pode ser facilmente adaptado para entrada interativa ou integração com UI.
